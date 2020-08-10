@@ -1,1 +1,1 @@
-# mpd-ncmpcpp-install
+# mpd & ncmpcpp installer for Arch Linux
